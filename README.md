@@ -19,7 +19,9 @@ For the tasks we have used
 
 * House Price Prediction DataSet: https://www.kaggle.com/datasets/mohamedafsal007/house-price-dataset-of-india
   
-* Wine Quality Dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset,https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+* Wine Quality Dataset: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset and
+
+    https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
       
 # Task-1: House Price Prediction
    House price prediction is a crucial application of machine learning and data science in the real estate industry. It involves developing models that can estimate the market value of residential properties based on various features and historical data. Common machine learning techniques used for house price prediction include linear regression, decision trees, random forests, and gradient boosting algorithms. These models learn from historical sales data and use it to make predictions on new, unseen properties.
